@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="114877" started-at="2020-08-18T18:52:36 IST" finished-at="2020-08-18T18:54:31 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="114877" started-at="2020-08-18T18:52:36 IST" finished-at="2020-08-18T18:54:31 IST">
+      <class name="mobile.casestudy.test.testRunner">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mobile.casestudy.test.testRunner@4d3167f4]" name="beforeTest" is-config="true" duration-ms="21397" started-at="2020-08-18T18:52:37 IST" finished-at="2020-08-18T18:52:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TC04_TakeChallenge()[pri:0, instance:mobile.casestudy.test.testRunner@4d3167f4]" name="TC04_TakeChallenge" duration-ms="93413" started-at="2020-08-18T18:52:58 IST" finished-at="2020-08-18T18:54:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04_TakeChallenge -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mobile.casestudy.test.testRunner@4d3167f4]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-08-18T18:54:31 IST" finished-at="2020-08-18T18:54:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- mobile.casestudy.test.testRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
